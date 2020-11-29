@@ -17,7 +17,7 @@ int main() {
 	Empleado emp2("Rocio",12000);
 	Empleado emp3("Luis",13500);
 	
-	Proyecto proy1("Project x");
+	Proyecto proy1("Project x","finanzas",1500);
 	
 	
 	
